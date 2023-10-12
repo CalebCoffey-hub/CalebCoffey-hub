@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CalebCoffey-hub
 - 👀 I’m interested in ... Learning Computer Science
-- 🌱 I’m currently learning ... CS50x - 2021
+- 🌱 I’m currently learning ... CS50x
 - 📫 How to reach me ... nzcoffey@gmail.com
 
 <!---
